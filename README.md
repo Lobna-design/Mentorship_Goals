@@ -6,7 +6,7 @@ Mentorship Goals Needed To Finish
 
 - [ x] Flex Box
 - [ x] CSS Grid
-- [ ] Transform
+- [x ] Transform
 - [ ] Animation
 - [ ] Media Queries
 - [ ] Grid System
